@@ -1,0 +1,13 @@
+body {
+  font-family: 'Vesper Libre', serif;
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+}
+
+button {
+  font-family: 'Vesper Libre', serif;
+  background-color: #e0c3fc;
+  color: #000;
+  border-radius: 10px;
+  border-color: #8ec5fc;
+}
